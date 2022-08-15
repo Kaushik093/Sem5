@@ -1,0 +1,1 @@
+CPU exec time for a program = clock cycles for a prog * clock cycles time
