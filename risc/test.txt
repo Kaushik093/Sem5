@@ -1,5 +1,0 @@
-Cpu time : time spent by cpu to perform a computation excluding time spent to wait for i/o and 
-running other processes.
-
-user cpu time : time spent by processor to run app code
-system cpu time : time spent running code in the os kernel on behalf of the program
