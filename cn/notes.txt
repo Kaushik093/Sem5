@@ -1,4 +1,4 @@
-To check mac address : if config | grep ether 
+To check mac address : ifconfig | grep ether 
 to send commands to an ip address : nc 192.168.248.145 3333
 to listen : nc -l 3333
 
