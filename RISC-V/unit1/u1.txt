@@ -1,0 +1,8 @@
+CPU exec time for a program = clock cycles for a prog * clock cycles time
+Clock cycles per instruction = CPI
+
+Energy is proportional to capacitative load * (Voltage)^2 [Energy of pulse during 0 to 1 to 0 or vice versa]
+
+Power is proportional to capacitative load * (Voltage)^2 * frequency switched
+
+Parallel programming means performance programming which increases the difficulty of programm

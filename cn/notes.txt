@@ -1,7 +1,0 @@
-To check mac address : ifconfig | grep ether 
-to send commands to an ip address : nc 192.168.248.145 3333
-to listen : nc -l 3333
-
-
-5 packets transmitted, 5 received, 0% packet loss, time 4004ms
-rtt min/avg/max/mdev = 239.969/319.733/377.256/49.422 ms
