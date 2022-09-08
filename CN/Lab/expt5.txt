@@ -1,0 +1,4 @@
+Destination : 128.119.245.12
+source port/Destination : 42428 / 80
+
+No SYN in 1st packet: 

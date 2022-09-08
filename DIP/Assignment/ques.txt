@@ -1,0 +1,9 @@
+% Extract the individual red, green, and blue color channels.
+% (Note: rgbImage might be after you've taken the log of it.)
+redChannel = rgbImage(:, :, 1);
+greenChannel = rgbImage(:, :, 2);
+blueChannel = rgbImage(:, :, 3);
+maxGrayLevelR = max(redChannel(:));
+% Convert percentage threshold into an actual number.
+thresholdLevel = minGrayLevelR + thrper*(maxGrayLevelR  - minGrayLevelR);
+binaryImageR = redChannel  > thresholdLevel;
