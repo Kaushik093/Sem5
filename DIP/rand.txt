@@ -1,0 +1,5 @@
+dynamic range  : exact subset of gray values present in the image
+
+
+
+
